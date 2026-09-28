@@ -1,0 +1,6 @@
+{
+  "name": "AI AGRI ROBOT",
+  "description": "Real hardware control and monitoring application for ESP32 agricultural robot with live ESP32-CAM stream, motor controls, dual relays, soil and water sensors, and flame detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
